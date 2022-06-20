@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fafafa;
+}
+.container {
+  height: 100vh;
+}
+
+#list-items {
+  height: 100%;
+  overflow: scroll;
+}
